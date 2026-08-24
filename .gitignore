@@ -11,3 +11,6 @@ __pycache__/
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+# Datos crudos (bajar de la fuente)
+data/raw/*.csv
