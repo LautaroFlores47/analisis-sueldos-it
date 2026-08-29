@@ -34,15 +34,16 @@ Una aclaración que atraviesa todo el proyecto: encontrar que dos cosas van junt
 
 ## Estructura del repo
 
+```
 analisis-sueldos-it/
 ├── data/
-│ ├── raw/ # dato crudo (no versionado)
-│ └── processed/ # dato limpio
-├── notebooks/ # exploración, limpieza y análisis
-├── visualizations/ # gráficos generados
+│   ├── raw/          # dato crudo (no versionado)
+│   └── processed/    # dato limpio
+├── notebooks/        # exploración, limpieza y análisis
+├── visualizations/   # gráficos generados
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Cómo correrlo
 
